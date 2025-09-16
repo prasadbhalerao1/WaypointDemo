@@ -6,9 +6,6 @@ This is a mental health support application developed using React with TypeScrip
 
 ```
 WaypointDemo/
-├── .bolt/                 
-│   ├── config.json       
-│   └── prompt            
 ├── src/
 │   ├── components/
 │   │   ├── Footer.tsx    
@@ -93,7 +90,6 @@ yarn build
 ## Additional Information
 
 - The application is scaffolded with Vite.
-- The `.bolt` directory contains configuration files for Bolt (if applicable).
 - For additional project-specific scripts and configurations, refer to the `package.json` and `vite.config.ts` files.
 
 ---
